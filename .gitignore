@@ -1,0 +1,28 @@
+######################
+# Compiled Artifcats #
+######################
+target
+*.class
+*.jar
+*.war
+
+#################
+# Project Files #
+#################
+*.classpath
+*.project
+*.settings
+
+*.log
+
+#################
+# IntelliJ      #
+#################
+.idea/
+*.iml
+*.iws
+
+############################################
+# hide until db creds moved to env vars    #
+############################################
+sandbox.properties
